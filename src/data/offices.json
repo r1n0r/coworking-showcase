@@ -1,0 +1,182 @@
+[
+  {
+    "id": "nyc-downtown",
+    "name": "Downtown Manhattan Office",
+    "city": "New York",
+    "image": "/images/manhattan-office.jpg",
+    "description": "A bright, modern coworking space in downtown Manhattan. Perfect for startups and freelancers.",
+    "amenities": ["Wi-Fi", "Meeting Rooms", "Coffee", "24/7 Access"],
+    "location": "Downtown Manhattan, New York",
+    "availability": {
+      "Mon": "9AM–6PM",
+      "Tue": "9AM–6PM",
+      "Wed": "9AM–6PM",
+      "Thu": "9AM–6PM",
+      "Fri": "9AM–6PM",
+      "Sat": "10AM–4PM",
+      "Sun": "Closed"
+    }
+  },
+  {
+    "id": "la-sunset",
+    "name": "Sunset Blvd Hub",
+    "city": "Los Angeles",
+    "image": "/images/la-office.jpg",
+    "description": "Spacious and sunny shared office near Hollywood. Great for creatives and remote teams.",
+    "amenities": ["Wi-Fi", "Parking", "Lounge Area"],
+    "location": "Downtown Manhattan, New York",
+    "availability": {
+      "Mon": "9AM–6PM",
+      "Tue": "9AM–6PM",
+      "Wed": "9AM–6PM",
+      "Thu": "9AM–6PM",
+      "Fri": "9AM–6PM",
+      "Sat": "10AM–4PM",
+      "Sun": "Closed"
+    }
+  },
+  {
+    "id": "sf-tech",
+    "name": "Tech District Workspace",
+    "city": "San Francisco",
+    "image": "/images/sf-office.jpg",
+    "description": "Located in the heart of SF's tech district, fully equipped with premium amenities.",
+    "amenities": ["Wi-Fi", "Private Offices", "Kitchen", "Bike Storage"],
+    "location": "Downtown Manhattan, New York",
+    "availability": {
+      "Mon": "9AM–6PM",
+      "Tue": "9AM–6PM",
+      "Wed": "9AM–6PM",
+      "Thu": "9AM–6PM",
+      "Fri": "9AM–6PM",
+      "Sat": "10AM–4PM",
+      "Sun": "Closed"
+    }
+  },
+  {
+    "id": "chi-loop",
+    "name": "Loop Shared Office",
+    "city": "Chicago",
+    "image": "/images/chi-office.jpg",
+    "description": "Affordable and accessible coworking environment in The Loop.",
+    "amenities": ["Wi-Fi", "Meeting Rooms", "24/7 Access"],
+    "location": "Downtown Manhattan, New York",
+    "availability": {
+      "Mon": "9AM–6PM",
+      "Tue": "9AM–6PM",
+      "Wed": "9AM–6PM",
+      "Thu": "9AM–6PM",
+      "Fri": "9AM–6PM",
+      "Sat": "10AM–4PM",
+      "Sun": "Closed"
+    }
+  },
+    {
+    "id": "boston-harbor",
+    "name": "HarborView Cowork",
+    "city": "Boston",
+    "image": "/images/boston-office.jpg",
+    "description": "A waterfront coworking space with stunning harbor views and modern facilities.",
+    "amenities": ["Wi-Fi", "Meeting Rooms", "Coffee", "Phone Booths"],
+    "location": "Downtown Manhattan, New York",
+    "availability": {
+      "Mon": "9AM–6PM",
+      "Tue": "9AM–6PM",
+      "Wed": "9AM–6PM",
+      "Thu": "9AM–6PM",
+      "Fri": "9AM–6PM",
+      "Sat": "10AM–4PM",
+      "Sun": "Closed"
+    }
+  },
+  {
+    "id": "seattle-hub",
+    "name": "RainCity Work Hub",
+    "city": "Seattle",
+    "image": "/images/seattle-office.jpg",
+    "description": "Trendy shared space in downtown Seattle — ideal for remote teams and creatives.",
+    "amenities": ["Wi-Fi", "Lounge Area", "Bike Storage", "24/7 Access"],
+    "location": "Downtown Manhattan, New York",
+     "availability": {
+      "Mon": "9AM–6PM",
+      "Tue": "9AM–6PM",
+      "Wed": "9AM–6PM",
+      "Thu": "9AM–6PM",
+      "Fri": "9AM–6PM",
+      "Sat": "10AM–4PM",
+      "Sun": "Closed"
+    }
+  },
+  {
+    "id": "austin-vibe",
+    "name": "South Congress Collective",
+    "city": "Austin",
+    "image": "/images/austin-office.jpg",
+    "description": "Creative coworking vibes in Austin’s SoCo district with live music nearby.",
+    "amenities": ["Wi-Fi", "Kitchen", "Parking", "Pet Friendly"],
+    "location": "Downtown Manhattan, New York",
+     "availability": {
+      "Mon": "9AM–6PM",
+      "Tue": "9AM–6PM",
+      "Wed": "9AM–6PM",
+      "Thu": "9AM–6PM",
+      "Fri": "9AM–6PM",
+      "Sat": "10AM–4PM",
+      "Sun": "Closed"
+    }
+  },
+  {
+    "id": "miami-sunspace",
+    "name": "SunSpace Downtown",
+    "city": "Miami",
+    "image": "/images/miami-office.jpg",
+    "description": "A bright, palm-lined coworking space close to Biscayne Bay and Brickell.",
+    "amenities": ["Wi-Fi", "Coffee", "Meeting Rooms", "Outdoor Seating"],
+    "location": "Downtown Manhattan, New York",
+     "availability": {
+      "Mon": "9AM–6PM",
+      "Tue": "9AM–6PM",
+      "Wed": "9AM–6PM",
+      "Thu": "9AM–6PM",
+      "Fri": "9AM–6PM",
+      "Sat": "10AM–4PM",
+      "Sun": "Closed"
+    }
+  },
+  {
+    "id": "denver-hub",
+    "name": "Mile High Workspace",
+    "city": "Denver",
+    "image": "/images/denver-office.jpg",
+    "description": "Spacious and modern space in the heart of Denver’s tech district.",
+    "amenities": ["Wi-Fi", "Private Offices", "Kitchen", "Parking"],
+    "location": "Downtown Manhattan, New York",
+    "availability": {
+      "Mon": "8AM–6PM",
+      "Tue": "8AM–6PM",
+      "Wed": "8AM–6PM",
+      "Thu": "8AM–6PM",
+      "Fri": "8AM–6PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
+  },
+  {
+    "id": "toronto-district",
+    "name": "District One Workspace",
+    "city": "Toronto",
+    "image": "/images/toronto-office.jpg",
+    "description": "A professional and vibrant coworking environment in downtown Toronto.",
+    "amenities": ["Wi-Fi", "Meeting Rooms", "Phone Booths", "Coffee"],
+    "location": "Downtown Manhattan, New York",
+    "availability": {
+      "Mon": "8AM–6PM",
+      "Tue": "8AM–6PM",
+      "Wed": "8AM–6PM",
+      "Thu": "8AM–6PM",
+      "Fri": "8AM–6PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
+  }
+]
